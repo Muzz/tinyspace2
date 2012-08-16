@@ -1,0 +1,575 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"the",
+				"then"
+			],
+			[
+				"Camera",
+				"CameraSatAngle"
+			],
+			[
+				"can",
+				"CAngleUnDamped"
+			],
+			[
+				"ca",
+				"CAngleUnDamped"
+			],
+			[
+				"Ca",
+				"CAngleDamped"
+			],
+			[
+				"Sat",
+				"SateliteF"
+			],
+			[
+				"plan",
+				"Planetx"
+			],
+			[
+				"body",
+				"Bodyx"
+			],
+			[
+				"planet",
+				"Planety"
+			],
+			[
+				"Camer",
+				"CameraTarget"
+			],
+			[
+				"pla",
+				"Planet"
+			],
+			[
+				"sat",
+				"Sateliteprop"
+			],
+			[
+				"sate",
+				"Satelite"
+			],
+			[
+				"MOAICamera",
+				"MOAICameraFitter2D"
+			],
+			[
+				"res",
+				"resistanceAM"
+			],
+			[
+				"resistan",
+				"resistanceAM"
+			],
+			[
+				"resit",
+				"resistanceAM"
+			],
+			[
+				"resis",
+				"resistanceAm"
+			],
+			[
+				"resi",
+				"resistancerot"
+			],
+			[
+				"Body",
+				"BodyVY"
+			],
+			[
+				"bo",
+				"BodyVY"
+			],
+			[
+				"Get",
+				"getPosition"
+			],
+			[
+				"gra",
+				"GravForce"
+			],
+			[
+				"dist",
+				"Distance"
+			],
+			[
+				"delt",
+				"deltaY"
+			],
+			[
+				"delta",
+				"deltaX"
+			],
+			[
+				"box",
+				"boxbody"
+			],
+			[
+				"rad",
+				"radialGravity"
+			],
+			[
+				"grav",
+				"GravForce"
+			],
+			[
+				"satpos",
+				"satposx"
+			],
+			[
+				"test",
+				"testa"
+			],
+			[
+				"set",
+				"setTransform"
+			],
+			[
+				"satvec",
+				"satVecy"
+			],
+			[
+				"sa",
+				"satAngle"
+			],
+			[
+				"get",
+				"getAngle"
+			],
+			[
+				"MOAI",
+				"MOAITouchSensor"
+			],
+			[
+				"Thr",
+				"Thrusty"
+			],
+			[
+				"thr",
+				"ThrustDirectiony"
+			],
+			[
+				"The",
+				"ThrustDirectiony1"
+			],
+			[
+				"Sa",
+				"Satelite"
+			],
+			[
+				"Dra",
+				"DragY"
+			],
+			[
+				"Pla",
+				"Planety"
+			],
+			[
+				"Plan",
+				"Planetx"
+			],
+			[
+				"del",
+				"deltaY"
+			],
+			[
+				"plane",
+				"planety"
+			],
+			[
+				"ball",
+				"BallCurrentVel"
+			],
+			[
+				"Ball",
+				"BallCurrentVel"
+			],
+			[
+				"button",
+				"buttontext"
+			],
+			[
+				"fix",
+				"FixtureRightWall"
+			],
+			[
+				"MOAIE",
+				"MOAIEaseType"
+			],
+			[
+				"event",
+				"eventType"
+			],
+			[
+				"click",
+				"clickCallback"
+			],
+			[
+				"text",
+				"textbox1"
+			],
+			[
+				"make",
+				"MakeButton"
+			],
+			[
+				"add",
+				"addTextbox"
+			],
+			[
+				"start",
+				"StartGame"
+			],
+			[
+				"Game",
+				"GameOver"
+			],
+			[
+				"E",
+				"EBat"
+			],
+			[
+				"camera",
+				"camerashake"
+			],
+			[
+				"F",
+				"Fitter"
+			],
+			[
+				"Eba",
+				"ebatspeed"
+			],
+			[
+				"fixture",
+				"FixtureLeftWall"
+			],
+			[
+				"mouse",
+				"mouseX"
+			],
+			[
+				"Mouse",
+				"mouseX"
+			],
+			[
+				"on",
+				"onPointerEvent"
+			],
+			[
+				"Fixt",
+				"fixtureA"
+			],
+			[
+				"sc",
+				"screenWidthY"
+			],
+			[
+				"gravity",
+				"gravityvar"
+			],
+			[
+				"pointer",
+				"pointerCallback"
+			],
+			[
+				"point",
+				"pointerCallback"
+			],
+			[
+				"fi",
+				"FixtureBall"
+			],
+			[
+				"fixt",
+				"FixtureLeftWall"
+			],
+			[
+				"Fi",
+				"FixtureBall"
+			],
+			[
+				"fun",
+				"function	function"
+			],
+			[
+				"Fix",
+				"FixBat"
+			],
+			[
+				"MO",
+				"MOAIBox2DArbiter"
+			],
+			[
+				"MOA",
+				"MOAIBox2DBody"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.lua",
+			"settings":
+			{
+				"buffer_size": 7872,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Users/murry/Desktop/muzstuff/TinySpaceFiles/main.lua",
+			"settings":
+			{
+				"buffer_size": 5671,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "gravity.lua",
+			"settings":
+			{
+				"buffer_size": 2202,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/murry/Desktop/muzstuff/TinySpaceFiles/GameLoop.lua",
+		"/Users/murry/Dropbox/muzstuff/TinySpaceFiles/particles.lua",
+		"/Users/murry/Dropbox/muzstuff/TinySpaceFiles/GameLoop.lua",
+		"/Users/murry/Desktop/TinySpaceFiles/main.lua",
+		"/Users/murry/Desktop/muzpongfiles/main.lua",
+		"/Users/murry/Dropbox/Flyro/Art/Spritesheet_Particle_HD/fire_white_01_noglow.png"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"loop",
+			"moai.pmg",
+			"moai",
+			"percent",
+			"dista",
+			"())\n",
+			"fences",
+			"scoreholder",
+			"score holder",
+			"text",
+			"score",
+			"top",
+			"280",
+			"Ball",
+			"force",
+			"linear",
+			"ballX",
+			"filter",
+			" \n",
+			")\n",
+			"png",
+			"pick",
+			"moveScl"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.lua",
+					"settings":
+					{
+						"buffer_size": 7872,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								349,
+								356
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/murry/Desktop/muzstuff/TinySpaceFiles/main.lua",
+					"settings":
+					{
+						"buffer_size": 5671,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								357,
+								357
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "gravity.lua",
+					"settings":
+					{
+						"buffer_size": 2202,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								837,
+								837
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 144.0,
+	"status_bar_visible": true
+}
